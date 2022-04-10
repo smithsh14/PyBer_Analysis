@@ -10,4 +10,5 @@ Using Python, Pandas and Matplotlib, we have been tasked to run an analysis on t
  
 ## Analysis  Results
 
+![Pic_1] 
 ## Summary
